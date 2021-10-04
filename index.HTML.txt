@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"
+    <meta name="viewpoint" content="width=device-width, initial-scale=1.0">
+       <title>Document</title>
+       <link rel="stylesheet" href="sty.css">
+       
+</head>
+<body>
+    <header>
+       <div class="user">
+       <img src="photo.jpg">
+       <h5 class="nm">Blessian D Jutike</h5>
+       <p class="jb">Student</p>
+       </div>
+       <nav class="nv">
+          <ul>
+             <li><a href="#Details">Details</a></li>
+             <li><a href="#Education">Education</a></li>
+             <li><a href="#Technical Skills">Technical Skills</a></li>
+             <li><a href="#Project">Project</a></li>
+          </ul>
+       </nav>
+    </header>
+    <section class="Details" id="Details">
+        <h1 class="heading"><span>Details about me</span></h1>
+        <div class="Row">
+        <div class="det">
+             <h3><span>Name: </span>Sunil koli</h3>
+             <h3><span>Age: </span>23</h3>
+             <h3><span>Gender: </span>male</h3>
+             <h3><span>Email: </span>sunilyk143@gmail.com</h3>
+             <h3><span>Phone_no: </span>7338067503</h3>    
+        </div>
+    </div>
+    </section>
+<section class="Education" id="Education">
+    <h1 class="title"><span>Education</span></h1><br><br><br>
+    <table>
+        <tr>
+            <th>Cource</th>
+            <th>Name of the institude</th>
+            <th>University</th>
+            <th>Percentage</th>
+        </tr>
+        <tr>
+            <td>SSCL</td>
+            <td>Excellent public school lokapur</td>
+            <td>CBSE</td>
+            <td>6.4</td>
+        </tr>
+        <tr>
+            <td>puc</td>
+            <td>VCVR Davanagere</td>
+            <td>DTE</td>
+            <td>75.6</td>
+        </tr>
+        <tr>
+            <td>BE</td>
+            <td>SGBIT Engineering college Belagavi</td>
+            <td>VTU</td>
+            <td>6.62</td>
+        </tr>
+    </table>
+</section>
+<br><br><br><br><br><br>
+<section class="Technical Skills" id="Technical Skills">
+    <h1 class="head"><span>Technical Skills</span></h1>
+    <div>
+    <ul id="lis">
+        <li>Java</li>
+        <li>Oracle</li>
+        <li>MySQL</li>
+        <li>Manual Testing</li>
+        <li>Automation Testing</li>
+        
+    </ul>
+</div>
+</section>
+<section class="Project" id="Project">
+    <h1 class="heading"><span>Project</span></h1>
+    <div class="Row">
+        <div class="det">
+    <h3><span>Role: </span>Team member</h3>
+    <h3><span>Title: </span>water bottle crushing machine</h3>
+    <h3><span>Description: </span>We have designed the machine which collects the waste plastic bottles at one particular place.
+        This helps in keeping the environment clean.
+        This machine helps in recycling the waste bottles instead of manufacturing new bottles.
+	This project helps to clean the environment from plastic waste.
+	This machine crushes plastic into small pieces which helps to transport easily.
+	This machine consumes less power.
+	Simple in construction and operation.
+	Easy to install everywhere and also installation cost is affordable.</h3>
+            </div>
+</div>
+</section>
+</body>
+</html>
